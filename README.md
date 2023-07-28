@@ -69,22 +69,16 @@ ecommerce-frontend/
 
   ├── src/
 
-  
   │   ├── components/
 
-  
   │   │   ├── Auth/
 
-  
   │   │   │   ├── Login.js
 
-  
   │   │   │   ├── Signup.js
-
-  
+ 
   │   │   │   └── UserProfile.js
 
-  
   │   │   ├── Product/
 
   
