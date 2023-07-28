@@ -1,5 +1,7 @@
 # -FRONTED_E_COMM_DASHBOARD
 
+https://ecommercedashboardfronted.netlify.app/
+
 
 This part of project  is an Ecommerce web application built using React.js for the frontend. It provides various components for user authentication, product management, and user profile functionality. The user data, including user details and product information, is stored in MongoDB Atlas cloud for secure and reliable data storage.
 
@@ -121,7 +123,7 @@ Copy code
 npm start
 
 
-The application will open in your default web browser at ===> https://ecommercedashboardfronted.netlify.app/signup
+The application will open in your default web browser at ===> https://ecommercedashboardfronted.netlify.app/
 Users can now interact with the application, perform CRUD operations on products, and manage their profiles.
 
 
